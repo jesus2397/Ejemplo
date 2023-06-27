@@ -1,0 +1,34 @@
+-Instrucciones para subir archivos a GitHub:
+
+git init
+
+git status
+
+git add .
+
+git commit -m "Información del archivo"
+
+
+git status
+
+git remote add origin <url del repositorio remoto>
+
+git push origin
+
+git branch (ver ramas que existen)
+
+git switch <nombre de la rama< (cambiar de rama>
+
+-Hacer modificaciones
+
+git commit -m "Nueva descripcion"
+
+git push origin main (En contraseña poner un token)
+
+
+git log
+
+
+git checkout <codigo que aparece al hacer git log>
+
+
